@@ -21,7 +21,7 @@ namespace FirstTask
         static void Main(string[] args)
         {
             // should return Black
-            Console.WriteLine(GetSquareColor("1"));
+            Console.WriteLine(GetSquareColor("a1"));
             
             // should return White
             Console.WriteLine(GetSquareColor("h7"));
