@@ -25,6 +25,9 @@ namespace FirstTask
             
             // should return White
             Console.WriteLine(GetSquareColor("h7"));
+            
+            // should throw an error
+            Console.WriteLine(GetSquareColor("12"));
 
         }
     }

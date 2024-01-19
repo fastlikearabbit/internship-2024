@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTask", "FirstTask\Firs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondTask", "SecondTask\SecondTask.csproj", "{0C3A1CA7-6DC0-41A4-BDEE-235CE289DF72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{5257AF25-8887-4D80-9709-5B84CB9F9981}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{0C3A1CA7-6DC0-41A4-BDEE-235CE289DF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C3A1CA7-6DC0-41A4-BDEE-235CE289DF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C3A1CA7-6DC0-41A4-BDEE-235CE289DF72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5257AF25-8887-4D80-9709-5B84CB9F9981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5257AF25-8887-4D80-9709-5B84CB9F9981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5257AF25-8887-4D80-9709-5B84CB9F9981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5257AF25-8887-4D80-9709-5B84CB9F9981}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
